@@ -1,0 +1,15 @@
+{
+    "title": "My PRJC",
+    "baseURL": "https:\/\/test.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758386",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "test.com"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "89797863",
+            "title": "Employee to Employer - Maid Starts Her Own Cleaning Company",
+            "date_created": "1493708405",
+            "loginId": "1758386",
+            "tags": "",
+            "description": "Employee to employer \u2013 Are you a Maid going on your own to start a cleaning business? The House Cleaning Guru, Angela Brown covers some tips to avoid a ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/RC6nl93Qx28\/hqdefault.jpg",
+                "uploadDate": 1493708405,
+                "videoId": "RC6nl93Qx28",
+                "title": "Employee to Employer - Maid Starts Her Own Cleaning Company",
+                "description": "Employee to employer \u2013 Are you a Maid going on your own to start a cleaning business? The House Cleaning Guru, Angela Brown covers some tips to avoid a ...",
+                "author": "Angela Brown",
+                "mediaDuration": 685,
+                "prettyDuration": "00:11:25",
+                "views": "27",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "89798584",
+            "url": "\/cleanin-bb\/employee-to-employer-maid-starts-her-own-cleaning-company\/89798584-89797863"
+        },
+        {
+            "id": "89798263",
+            "title": "Start a Pressure Cleaning Business. See Hundreds of Amazing Rigs. 800-666-1992 dans@hcsclean.com",
+            "date_created": "1293105093",
+            "loginId": "1758386",
+            "tags": "",
+            "description": "For The Cleaning Contractors with the Need for Speed! OVER 2.3 MILLION VIEWS! 1300 + videos. Dan Swede Hydro-Chem Systems Ph. 800-666-1992 Ph ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2klin700YZM\/hqdefault.jpg",
+                "uploadDate": 1293105093,
+                "videoId": "2klin700YZM",
+                "title": "Start a Pressure Cleaning Business. See Hundreds of Amazing Rigs. 800-666-1992 dans@hcsclean.com",
+                "description": "For The Cleaning Contractors with the Need for Speed! OVER 2.3 MILLION VIEWS! 1300 + videos. Dan Swede Hydro-Chem Systems Ph. 800-666-1992 Ph ...",
+                "author": "Dan Swede",
+                "mediaDuration": 504,
+                "prettyDuration": "00:08:24",
+                "views": "59048"
+            },
+            "parentId": "89798584",
+            "url": "\/cleanin-bb\/start-a-pressure-cleaning-business-see-hundreds-of-amazing-rigs-800-666-1992-dans-hcsclean-com\/89798584-89798263"
+        }
+    ]
+}
